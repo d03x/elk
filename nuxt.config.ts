@@ -147,8 +147,8 @@ export default defineNuxtConfig({
   runtimeConfig: {
     adminKey: '',
     cloudflare: {
-      accountId: '',
-      namespaceId: '',
+      accountId: 'bd42f6488a87487c82054d09b802d0bb',
+      namespaceId: 'dada',
       apiToken: '',
     },
     vercel: {
